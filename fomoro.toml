@@ -1,0 +1,4 @@
+name = "mnist-convolution"
+repo = "https://github.com/JustinTulloss/ml-scratch.git"
+description = "A simple convolutional neural network in TensorFlow."
+environment = "tensorflow"
